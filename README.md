@@ -1,11 +1,64 @@
-## Hi there 👋
 <!-- Header -->
-<h1 align="center">Hi there, I'm Omar Chokri 👋</h1>
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .name { font-family: 'Segoe UI', sans-serif; font-size: 28px; font-weight: 700; fill: #e6edf3; }
+      .sub  { font-family: 'Courier New', monospace; font-size: 14px; fill: #58a6ff; }
+      .tag  { font-family: 'Segoe UI', sans-serif; font-size: 12px; fill: #8b949e; }
+      .bar  { rx: 3; }
 
-<p align="center">
-  <a href="https://github.com/OmarChokri">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Night-Owl+Coder+%F0%9F%8C%99" alt="Typing SVG" />
-  </a>
+      .fade-in { animation: fadeIn 1s ease forwards; opacity: 0; }
+      .fade1   { animation-delay: 0.1s; }
+      .fade2   { animation-delay: 0.4s; }
+      .fade3   { animation-delay: 0.7s; }
+      .fade4   { animation-delay: 1.0s; }
+
+      @keyframes fadeIn {
+        to { opacity: 1; }
+      }
+
+      .pulse {
+        animation: pulse 3s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.5; }
+        50%       { opacity: 1; }
+      }
+
+      .slide {
+        animation: slideRight 2s 1.2s ease forwards;
+        transform: scaleX(0);
+        transform-origin: left;
+      }
+      @keyframes slideRight {
+        to { transform: scaleX(1); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="160" class="bg" rx="12"/>
+
+  <!-- Left accent bar -->
+  <rect x="28" y="30" width="3" height="100" rx="2" fill="#58a6ff" class="fade-in fade1"/>
+
+  <!-- Name -->
+  <text x="48" y="72" class="name fade-in fade2">Omar Chokri 👋</text>
+
+  <!-- Subtitle -->
+  <text x="50" y="98" class="sub fade-in fade3">$ Full-Stack Developer · Tunisia 🇹🇳</text>
+
+  <!-- Divider line -->
+  <rect x="50" y="112" width="460" height="1" fill="#21262d" class="slide"/>
+
+  <!-- Tags -->
+  <text x="50" y="134" class="tag fade-in fade4">Open to work  ·  Building in public  ·  Coffee → Code</text>
+
+  <!-- Animated dot -->
+  <circle cx="756" cy="80" r="6" fill="#3fb950" class="pulse fade-in fade4"/>
+  <text x="740" y="100" font-family="'Segoe UI', sans-serif" font-size="10" fill="#3fb950" text-anchor="middle" class="fade-in fade4">online</text>
+</svg>
 </p>
 
 ---
