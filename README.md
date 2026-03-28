@@ -36,6 +36,9 @@
       }
     </style>
   </defs>
+  <p align="center">
+  <img src="omar_banner.svg" width="100%" />
+</p>
 
   <!-- Background -->
   <rect width="800" height="160" class="bg" rx="12"/>
