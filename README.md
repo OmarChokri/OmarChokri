@@ -1,7 +1,10 @@
+<!-- Header -->
+<h1 align="center">Hi there, I'm Omar Chokri 👋</h1>
 
-md<!-- Banner -->
 <p align="center">
-  <img src="omar_banner.svg" width="100%" />
+  <a href="https://github.com/OmarChokri">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Night-Owl+Coder+%F0%9F%8C%99" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -45,9 +48,9 @@ const omar = {
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/omar-chokri-b378b0298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/omarchokri"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:omarchokri03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
